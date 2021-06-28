@@ -1,0 +1,1 @@
+A minimal todo app that uses the local storage function to save, delete and modify items.
